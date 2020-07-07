@@ -1,0 +1,2 @@
+* flycheck-glsl
+Flycheck checker for GLSL. Requires `glslangValidator`.
